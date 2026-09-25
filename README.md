@@ -8,7 +8,7 @@
 
 ## Демонстрация
 
-
+https://github.com/user-attachments/assets/5cf0a466-0f39-4e88-8efa-8fbdc357fa8b
 
 ## Как это работает
 
