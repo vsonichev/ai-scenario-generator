@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Переменные окружения
+.env
+
+# Артефакты генерации и инструментов
+.claude/
+.pytest_cache/
+.ruff_cache/
+.claudeignore
+connections/
+docs/
+outputs/
+
+# Прочие файлы проекта
+app/cli.py
